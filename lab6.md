@@ -19,7 +19,7 @@ The following setup instruction will be performed via AWS CLI.
 8.	Find the Flag. Read the stuff at the end of the terraform apply output closely enough, and you'll find the first flag. The Terraform output will show you how to set up your AWS CLI with the ctf-starting-user.
 By the way, the flag syntax is always as shown below. You will always submit this whole string as shown above with the word flag.
 
-FLAG{challengeName::CamelCaseText}
+    FLAG{challengeName::CamelCaseText}
 
 ---
 
