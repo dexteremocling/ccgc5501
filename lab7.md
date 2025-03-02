@@ -120,6 +120,11 @@ aws s3 cp s3://cloudfoxable-bastion-zcv2a/flag.txt –
 
 r.	I have found the flag: {FLAG:bastion::ifYouHaveAccessToAnEC2YouHaveAccessToItsIamPermissions}
 
+s.	Exit the bastion instance shell. Clean up the resources that was created by Terraform by running the command:
+```
+terraform destroy
+```
+
 ---
 
 ## Reflection:
