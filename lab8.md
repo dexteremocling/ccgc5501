@@ -3,6 +3,7 @@
 ## Challenge Statement:
 
 Assumed Breach: Principal
+
 ---
 
 ## Challenge Details:
@@ -184,4 +185,4 @@ I overcame these challenges by reviewing the policy again and noticing that it w
 The breakthrough came when I understood that the secret was an SSM parameter, and then that it was encrypted as a SecureString, I used the proper command and flags (--with-decryption) to retrieve the flag.
 
 ### On the blue side, how can the learning be used to properly defend the important assets?
-This experience teaches the importance of thoroughly understanding IAM policies to ensure that only the intended resources and actions are accessible. Also, it emphasizes the use of encryption to protect sensitive data. Using the --with-decryption flag only when necessary can help protect sensitive data and prevent unauthorized access.
+This experience teaches the importance of thoroughly understanding IAM policies to ensure that only the intended resources and actions are accessible. Also, it emphasizes the use of encryption to protect sensitive data. Using the --with-decryption flag only when necessary can help protect sensitive data and prevent unauthorized access. 
