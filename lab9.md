@@ -81,7 +81,7 @@ Output:
         },
         "MaxSessionDuration": 3600,
         "RoleLastUsed": {}
-    }
+}
 ```
 
 d.	Assume the Ertz role. The command and corresponding output are shown below.
