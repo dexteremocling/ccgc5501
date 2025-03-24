@@ -1,5 +1,4 @@
-# Challenge: 
-CloudFoxable It's Another Secret
+# Challenge: CloudFoxable It's Another Secret
 
 ## Challenge Statement:
 Assumed Breach: Principal
